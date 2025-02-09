@@ -18,13 +18,13 @@ This project implements a simple number guessing game in Python. The game genera
 1. Clone the repository:
 git clone https://github.com/BernardoMarta/Guessing_game
 cd Guessing_game
-text
+
 
 ## Usage
 Run the script from the command line:
 
 python name.py
-text
+
 
 Follow the prompts to set the game's difficulty level and make your guesses.
 
